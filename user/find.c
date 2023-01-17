@@ -81,6 +81,5 @@ int main(int argc, char *argv[])
     } else {
         find(argv[1], argv[2]);        
     }
-
     exit(0);    
 }
